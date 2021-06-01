@@ -251,7 +251,7 @@ h2 ~ p {
   padding-top: 10vh;
 }
 .full-hero:after {
-  boder: 10px solid;
+  border: 10px solid;
   border-color: #fff transparent transparent;
   bottom: 2vh;
   height: 0;
